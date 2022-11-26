@@ -1,0 +1,2 @@
+# proposals
+Astreum Proposal repository
